@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\obj\Debug\net10.0\deloitte-bootcamp-dia01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\obj\Debug\net10.0\deloitte-bootcamp-dia01.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\obj\Debug\net10.0\deloitte-bootcamp-dia01.AssemblyInfo.cs
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\obj\Debug\net10.0\deloitte-bootcamp-dia01.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\obj\Debug\net10.0\deloitte-bootcamp-dia01.sourcelink.json
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\bin\Debug\net10.0\deloitte-bootcamp-dia01.exe
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\bin\Debug\net10.0\deloitte-bootcamp-dia01.deps.json
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\bin\Debug\net10.0\deloitte-bootcamp-dia01.runtimeconfig.json
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\bin\Debug\net10.0\deloitte-bootcamp-dia01.dll
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\bin\Debug\net10.0\deloitte-bootcamp-dia01.pdb
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\obj\Debug\net10.0\deloitte-bootcamp-dia01.dll
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\obj\Debug\net10.0\refint\deloitte-bootcamp-dia01.dll
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\obj\Debug\net10.0\deloitte-bootcamp-dia01.pdb
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\obj\Debug\net10.0\deloitte-bootcamp-dia01.genruntimeconfig.cache
+C:\Users\aluno\Desktop\BootCamp\Bootcamp_dtt\deloitte-bootcamp-dia01\obj\Debug\net10.0\ref\deloitte-bootcamp-dia01.dll
